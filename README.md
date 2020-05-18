@@ -1,5 +1,5 @@
 # FileTransferArchitecture
-An implementation of a file transfer application with strong focus on the security architecture over an unstable network
+An implementation of a file transfer application with strong focus on the security architecture over an unsecure network
 
 
 
