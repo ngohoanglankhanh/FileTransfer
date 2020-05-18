@@ -12,7 +12,6 @@ Phase 2: Data (commands and data) communication session between client and serve
 
 
 I recommend watching my demo video here:
-https://drive.google.com/drive/u/1/folders/1PZ4kGVXwzLuU-9QLoenfjyl7SL8M9tk6
-
+https://drive.google.com/file/d/1nL_4J3Hw9_RF1l2zMhBMoQTH1dyetw2S/view?usp=sharing
 
 Author: Khanh Ngo, AIT Applied Cryptography 
