@@ -7,6 +7,7 @@ This project is about security-focused design of a file transfer application. Th
 
 The project has two main phase:
 Phase 1: Key establishment between client and server using RSA key pair generation and AES in CBC mode
+
 Phase 2: Data (commands and data) communication session between client and server using AES in GCM mode
 
 
