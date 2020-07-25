@@ -1,4 +1,4 @@
-# FileTransferArchitecture
+# FileTransferApp
 An implementation of a file transfer application with strong focus on the security architecture over an unsecure network
 
 
