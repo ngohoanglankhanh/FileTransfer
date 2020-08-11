@@ -11,8 +11,4 @@ Phase 1: Key establishment between client and server using RSA key pair generati
 
 Phase 2: Data (commands and data) communication session between client and server using AES in GCM mode
 
-
-I recommend watching my demo video here:
-https://drive.google.com/file/d/1nL_4J3Hw9_RF1l2zMhBMoQTH1dyetw2S/view?usp=sharing
-
 Author: Khanh Ngo, AIT Applied Cryptography 
